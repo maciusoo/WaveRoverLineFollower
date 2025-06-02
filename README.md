@@ -495,7 +495,7 @@ Because of additional components needed that we needed to wait for being deliver
   - 95% accuracy in detecting red, blue, and green colors under standard lighting conditions.
   - Line-following with 90% path adherence, ensuring smooth motion without deviation.
   - Color response time under 500 milliseconds.
-- **Achievable**: The team has the necessary skills for coding and testing (Team Member 3 - Bartosz), ensuring the task is realistic within the time limit.
+- **Achievable**: The team has the necessary skills for coding and testing (Bartosz), ensuring the task is realistic within the time limit.
 - **Relevant**: This milestone ensures the core functionality of the robot—line following and dynamic reaction to surface colors—directly aligning with the project goals.
 - **Time-bound**: Start on **November 20th, 2024**, and finish by **Jannuary 8th, 2025**.
 
